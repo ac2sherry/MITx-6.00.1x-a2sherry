@@ -11,20 +11,30 @@ If there are any infringement please contact with me
 
 in Week3
 
-ps3_hangman.py	【Python课程】Week1~Week3 Problems
+ps3_hangman.py	
 
-words.txt	【Python课程】Week1~Week3 Problems
+words.txt	
 
 in Week4
 
-ps4a.py	【Python课程】 MidtermExam & Week4 Problem
+ps4a.py	
 
-ps4b.py	【Python课程】 MidtermExam & Week4 Problem
+ps4b.py	
 
-test_ps4a.py	【Python课程】 MidtermExam & Week4 Problem
+test_ps4a.py	
 
-words.txt	【Python课程】 MidtermExam & Week4 Problem
+words.txt	
+
+in Week5
+
+ps6.py
+
+story.txt
+
+words.txt
 
 are belongs to MITx Program
+
+
 
 
