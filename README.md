@@ -8,15 +8,15 @@ If there are any infringement please contact with me
 
 in Week3
 
-ps3_hangman.py	
-words.txt	 
+ps3_hangman.py  
+words.txt  
 
 in Week4
 
-ps4a.py	 
-ps4b.py	 
-test_ps4a.py	
-words.txt	 
+ps4a.py  
+ps4b.py  
+test_ps4a.py  
+words.txt  
 
 in Week5
 
